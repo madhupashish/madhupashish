@@ -1,8 +1,7 @@
-![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2F7iKF.gif&tbnid=NuPvis99sDSnIM&vet=12ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygZegUIARDCAg..i&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2F7iKF&docid=kQGs5nD8CgFGGM&w=365&h=171&q=animated%20hacker%20gif&hl=en&ved=2ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygZegUIARDCAg)
+![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
 >
 
 - 🌱 I’m currently learning ** : Kotlin, AIML**
