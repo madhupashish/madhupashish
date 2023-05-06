@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2022%2F01%2Ficegif-174.gif&tbnid=CucyWaArfLTlIM&vet=12ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygMegUIARCXAg..i&imgrefurl=https%3A%2F%2Fwww.icegif.com%2Fhacker-11%2F&docid=f2dBOsmbzqs4bM&w=512&h=512&q=animated%20hacker%20gif&hl=en&ved=2ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygMegUIARCXAg)
+![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2F7iKF.gif&tbnid=NuPvis99sDSnIM&vet=12ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygZegUIARDCAg..i&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2F7iKF&docid=kQGs5nD8CgFGGM&w=365&h=171&q=animated%20hacker%20gif&hl=en&ved=2ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygZegUIARDCAg)
 >
 
 - 🌱 I’m currently learning ** : Kotlin, AIML**
