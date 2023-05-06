@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fhacker&psig=AOvVaw0UrP_L1PsQ5hP2JX7D417j&ust=1683491233305000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjTgtnD4f4CFQAAAAAdAAAAABAE)
+![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2022%2F01%2Ficegif-174.gif&tbnid=CucyWaArfLTlIM&vet=12ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygMegUIARCXAg..i&imgrefurl=https%3A%2F%2Fwww.icegif.com%2Fhacker-11%2F&docid=f2dBOsmbzqs4bM&w=512&h=512&q=animated%20hacker%20gif&hl=en&ved=2ahUKEwji5ejYw-H-AhVlmtgFHfRXCD4QMygMegUIARCXAg)
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
