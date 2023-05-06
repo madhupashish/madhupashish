@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
-<img align="right" alt="coding" width="400" src="<![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
+<![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
 >
 
-- 🌱 I’m currently learning **Kotlin, AIML**
+- 🌱 I’m currently learning ** : Kotlin, AIML**
 
-- 📫 How to reach me **madhupashish@gmail.com**
+- 📫 How to reach me ** : madhupashish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
