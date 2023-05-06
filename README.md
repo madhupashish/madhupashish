@@ -1,5 +1,4 @@
-![logo](C:\Users\HP\Downloads\download.png)
-
+![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.gifer.com%2F758b.gif&tbnid=CEULoB359FPrTM&vet=10CBQQxiAoAWoXChMI6NOC2cPh_gIVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2F758b&docid=iViAPH-3fJwLTM&w=800&h=600&itg=1&q=animated%20hacker%20gif&hl=en&ved=0CBQQxiAoAWoXChMI6NOC2cPh_gIVAAAAAB0AAAAAEAc)
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
