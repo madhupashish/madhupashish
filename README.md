@@ -1,3 +1,4 @@
+![logo](https://github.com/madhupashish/madhupashish/blob/main/chrome.exe)
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
