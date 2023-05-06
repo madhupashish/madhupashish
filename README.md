@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhacker-python-coding-glitch-gif-24209207&psig=AOvVaw1ixcyJOA-x619_-mlRaSyL&ust=1683490635971000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCNvLzB4f4CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="<![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
+>
 
 - 🌱 I’m currently learning **Kotlin, AIML**
 
