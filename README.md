@@ -27,3 +27,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhupashish&show_icons=true&locale=en" alt="madhupashish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhupashish&" alt="madhupashish" /></p>
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=madhupashish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=madhupashish&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=4ADEDE&bg_color=0D111700&text_color=4ADEDE&custom_title=" alt="" />
+
+  <img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=madhupashish&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=4ADEDE&currStreakNum=4ADEDE0&sideLabels=4ADEDE&dates=4ADEDE&stroke=" />
+
+</div>
