@@ -41,4 +41,8 @@
 
 [![madhupashish's GitHub | Stats](https://stats.quine.sh/madhupashish/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=madhupashish)
 
+
+[![madhupashish's GitHub | Languages Over Time](https://stats.quine.sh/madhupashish/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=madhupashish)
+
+
 </div>
