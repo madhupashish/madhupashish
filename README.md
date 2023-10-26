@@ -56,7 +56,7 @@
 
 
 <a href="https://www.holopin.io/hacktoberfest2023/userbadge/clo79fxd739230glj97ooag1b">
-<img alt="Ashish's Holopin Badge" width="10%" src="![image](https://github.com/madhupashish/madhupashish/assets/119279720/3cefe78b-32e6-4ffa-b1e3-47f78fda9264)
+<img alt="Ashish's Holopin Badge" width="10%" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=
 ">
 </a>
 
