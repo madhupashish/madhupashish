@@ -48,4 +48,20 @@
 [![madhupashish's GitHub | Topics Over Time](https://stats.quine.sh/madhupashish/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=madhupashish)
 
 
+
+
+<h3 align="center"> ✨ HacktoberFest 2023 ✨</h3> 
+
+<div align="center">
+
+
+<a href="https://www.holopin.io/hacktoberfest2023/userbadge/clo79fxd739230glj97ooag1b">
+<img alt="Ashish's Holopin Badge" width="10%" src="">
+</a>
+
+<a href="https://www.holopin.io/userbadge/clo79jec946570gljt850bnjc">
+<img alt="Ashish's Holopin Badge" width="10%" src="">
+</a>
+
+
 </div>
