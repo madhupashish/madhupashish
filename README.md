@@ -60,7 +60,8 @@
 </a>
 
 <a href="https://www.holopin.io/userbadge/clo79jec946570gljt850bnjc">
-<img alt="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=">
+<img alt="![image](https://github.com/madhupashish/madhupashish/assets/119279720/a22e2612-431e-45f4-9b04-82f9db2765ea)
+">
 </a>
 
 
