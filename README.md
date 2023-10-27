@@ -60,7 +60,7 @@
 </a>
 
 <a href="https://www.holopin.io/userbadge/clo79jec946570gljt850bnjc">
-<img alt="![image](https://github.com/madhupashish/madhupashish/assets/119279720/a22e2612-431e-45f4-9b04-82f9db2765ea)
+<img alt="Ashish's Holopin Badge" width="10%" src="![image](https://github.com/madhupashish/madhupashish/assets/119279720/a22e2612-431e-45f4-9b04-82f9db2765ea)
 ">
 </a>
 
