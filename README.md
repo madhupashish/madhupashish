@@ -54,9 +54,8 @@
 
 <div align="center">
 
+[![An image of @madhupashish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhupashish)](https://holopin.io/@madhupashish)
 
-<a [![An image of @madhupashish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhupashish)](https://holopin.io/@madhupashish)
-</a>
 
 
 </div>
