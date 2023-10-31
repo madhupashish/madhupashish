@@ -55,10 +55,8 @@
 <div align="center">
 
 
-<a href="https://www.holopin.io/hacktoberfest2023/userbadge/clo79fxd739230glj97ooag1b">
-<img alt="Ashish's Holopin Badge" width="10%" src="https://user-images.githubusercontent.com/119279720/05703029-aa90-400f-b7e6-f3d5c616d50f.png">
+<a [![An image of @madhupashish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhupashish)](https://holopin.io/@madhupashish)
 </a>
-[![An image of @madhupashish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhupashish)](https://holopin.io/@madhupashish)
 
 
 </div>
