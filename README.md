@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
+<h1 align="center">Hi 👋, I'm Ashish Madhup </h1>
 <h3 align="center">A computer science student from India</h3>
 
 ![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
