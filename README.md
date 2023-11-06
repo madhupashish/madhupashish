@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Madhup)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Ashish Madhup</h1>
 <h3 align="center">A computer science student from India</h3>
 
