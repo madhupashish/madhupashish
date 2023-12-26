@@ -2,7 +2,9 @@
 <h1 align="center"> </h1>
 <h3 align="center">A computer science student from India</h3>
 
-![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)>
+![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
+
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhupashish&label=Visitors&color=0e75b6&style=flat" alt="madhupashish" /> </p>
 
 - 🌱 I’m currently learning ** : Kotlin, AIML**
