@@ -12,11 +12,13 @@
 
 
 - 🌱 I’m currently learning **AI/ML**
-- - 🔭 I’m currently working on **Some Personal Projects**
+  
+- 🔭 I’m currently working on **Some Personal Projects**
+    
 - 👯 I’m looking to collaborate on **building New innovative Apps**
 
 
-- 📫 How to reach me ** : madhupashish@gmail.com**
+- 📫 How to reach me **madhupashish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
