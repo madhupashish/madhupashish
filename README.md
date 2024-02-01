@@ -4,10 +4,12 @@
 <h3 align="center">A computer science student from India</h3>
 
 ![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
-<img align="right" alt="Programming" width="400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhupashish&label=Visitors&color=0e75b6&style=flat" alt="madhupashish" /> </p>
+
+<img align="right" alt="Programming" width="400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 
 - 🌱 I’m currently learning ** : Kotlin, AIML**
 
