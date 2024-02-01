@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/rnp0728/rnp0728)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&background=FF2B7400&center=true&random=false&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Madhup)](https://git.io/typing-svg)
 <h1 align="center">  </h1>
-<h3 align="center">A computer science student from India</h3>
+**<h3 align="center">A computer science student from India</h3>**
 
 ![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
 
