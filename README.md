@@ -65,7 +65,7 @@
 
   <img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=madhupashish&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=4ADEDE&currStreakNum=4ADEDE0&sideLabels=4ADEDE&dates=4ADEDE&stroke=" />
 
-
+<h2> 📈 &nbsp;My GitHub History!</h2>
 [![madhupashish's GitHub | Stats](https://stats.quine.sh/madhupashish/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=madhupashish)
 
 
