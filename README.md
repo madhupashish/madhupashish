@@ -11,7 +11,10 @@
 <img align="right" alt="Programming" width="400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
-- 🌱 I’m currently learning ** : Kotlin, AIML**
+- 🌱 I’m currently learning **AI/ML**
+- - 🔭 I’m currently working on **Some Personal Projects**
+- 👯 I’m looking to collaborate on **building New innovative Apps**
+
 
 - 📫 How to reach me ** : madhupashish@gmail.com**
 
