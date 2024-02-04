@@ -4,7 +4,7 @@
 
 
 &nbsp;
-## 💻 A computer science student from India
+##  💻 A computer science student from India
 <p align="center"> 
 
 ![image](https://user-images.githubusercontent.com/119279720/236645353-55e27ab3-19be-4851-be3e-06932aaea692.png)
