@@ -88,7 +88,7 @@
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/madhupashish"><img src="https://stats.hyochan.dev/api/github-stats?login=madhupashish" width="600" /></a>
 
 
 
