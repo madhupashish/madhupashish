@@ -86,9 +86,10 @@
 
 </div>
 
-<strong>Top Repositories</strong>
+<strong>🏆 Dooboo lab's github stats</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
+<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
+
 
 
 
