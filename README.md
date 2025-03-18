@@ -1,4 +1,4 @@
- [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/rnp0728/rnp0728)
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/rnp0728/rnp0728)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&background=FF2B7400&center=true&random=false&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Madhup)](https://git.io/typing-svg)
 
 
