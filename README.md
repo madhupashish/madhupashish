@@ -74,20 +74,13 @@
 
 [![madhupashish's GitHub | Topics Over Time](https://stats.quine.sh/madhupashish/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=madhupashish)
 
-
-
-
 <h3 align="center"> ✨ HacktoberFest 2023 ✨</h3> 
-
 <div align="center">
-
 [![An image of @madhupashish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhupashish)](https://holopin.io/@madhupashish)
-
 
 </div>
 
 <strong>🏆 Dooboo lab's github stats</strong>
-
 <a href="https://stats.hyochan.dev/en/stats/madhupashish"><img src="https://stats.hyochan.dev/api/github-stats?login=madhupashish" width="600" /></a>
 
 
